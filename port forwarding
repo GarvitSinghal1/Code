@@ -1,0 +1,4 @@
+python -m http.server 8000 --directory folde_name_here
+
+
+vs code > New terminal > "python -m http.server 8000 --directory folde_name_here" enter this ther> replace folder_name > ports > forward a port > write 8000 there > Hit enter > copy forwarded address 
